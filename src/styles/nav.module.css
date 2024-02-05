@@ -1,0 +1,14 @@
+ul{
+    display: flex;
+    list-style: none;
+    width: 228px;
+    height: 42px;
+    margin-top: 25px;
+    justify-content: space-between;
+}
+h5{
+    display: block;
+}
+ul li{
+    text-align: center;
+}

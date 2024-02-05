@@ -1,0 +1,37 @@
+.divWrapper{
+    width: 665px;
+    height: 40px;
+    background: red;
+margin: auto;
+display: flex;
+align-items: center;
+outline: 1px solid #0D6EFD;
+/* border: 1px  solid#0D6EFD; */
+border-radius: 6px;
+/* padding: 5px; */
+/* justify-content: center; */
+}
+input{
+    width: 421px;
+    height: 40px;
+    border: none;
+    padding-left: 10px;
+    border-right: 0.5px solid #0D6EFD;
+    /* margin: 5px; */
+    /* margin-top: 22px; */
+}
+select{
+    width: 145px;
+    height: 40px;
+        border: none;
+        padding:0 10px 0 10px;
+}
+button{
+    width: 100px;
+    height: 40px;
+        border: none;
+        background: #0D6EFD;
+        color: white;
+        border: none;
+        border-radius: 0 6px 6px 0;
+}

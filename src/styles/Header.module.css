@@ -1,0 +1,19 @@
+.header_container{   
+  height: 86px;
+  background: white;
+  vertical-align: middle;
+  padding: auto;
+
+}
+.inner_container{
+  display: flex;
+    justify-content: space-between;
+   width: 100%;
+    align-items: center;
+  max-Width: 1180px;
+    margin: 0 auto;
+}
+.borderBottom{
+  border-bottom:  1px solid #E0E0E0;
+ 
+}

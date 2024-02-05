@@ -1,0 +1,10 @@
+
+       .logoWrapper {
+        display: flex;
+        align-items: center;
+
+    }
+.brand{
+    margin-left: 10px;
+    color:  #8CB7F5;;
+}
