@@ -79,3 +79,13 @@ html {
   /* Makes normal scrolling smooth */
   background:#F7FAFC;
 }
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 2px);
+  width: 100%;
+  max-width: 1180px;
+ margin: auto;
+}
